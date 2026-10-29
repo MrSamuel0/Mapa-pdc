@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a9278d38f9208d419568013721a23135 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a9278d38f9208d419568013721a23135" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a9278d38f9208d419568013721a23135 = L.map(
+                "map_a9278d38f9208d419568013721a23135",
+                {
+                    center: [-20.33229795290846, -40.28014349070484],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 16,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d7512c9168437098a58922ec91eb6b27 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d7512c9168437098a58922ec91eb6b27.addTo(map_a9278d38f9208d419568013721a23135);
+        
+    
+        function geo_json_70cacb2a892b55b870b47b42770dede4_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "#1f4e79", "fillColor": "#3186cc", "fillOpacity": 0.6, "weight": 2};
+            }
+        }
+
+        function geo_json_70cacb2a892b55b870b47b42770dede4_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_70cacb2a892b55b870b47b42770dede4 = L.geoJson(null, {
+                onEachFeature: geo_json_70cacb2a892b55b870b47b42770dede4_onEachFeature,
+            
+                style: geo_json_70cacb2a892b55b870b47b42770dede4_styler,
+            ...{
+}
+        });
+
+        function geo_json_70cacb2a892b55b870b47b42770dede4_add (data) {
+            geo_json_70cacb2a892b55b870b47b42770dede4
+                .addData(data);
+        }
+            geo_json_70cacb2a892b55b870b47b42770dede4_add({"bbox": [-40.2904755, -20.3468208, -40.2668819, -20.3201716], "features": [{"bbox": [-40.2888351, -20.3402631, -40.2803593, -20.3330785], "geometry": {"coordinates": [[[-40.2887737, -20.3399066, 0.0], [-40.2887064, -20.3400434, 0.0], [-40.2886402, -20.3401583, 0.0], [-40.288574, -20.3402631, 0.0], [-40.2876925, -20.3398146, 0.0], [-40.2868073, -20.3393627, 0.0], [-40.2865212, -20.3392332, 0.0], [-40.2862691, -20.3390718, 0.0], [-40.2857872, -20.3388036, 0.0], [-40.2855136, -20.3386003, 0.0], [-40.2853116, -20.3383936, 0.0], [-40.2851202, -20.3381496, 0.0], [-40.2849459, -20.3378981, 0.0], [-40.284793, -20.3374813, 0.0], [-40.2846938, -20.337051, 0.0], [-40.2845183, -20.3370763, 0.0], [-40.2824012, -20.337346, 0.0], [-40.2821617, -20.3372836, 0.0], [-40.2820653, -20.3373423, 0.0], [-40.2816075, -20.3365274, 0.0], [-40.2803593, -20.3349362, 0.0], [-40.2823906, -20.3345942, 0.0], [-40.2842145, -20.3344097, 0.0], [-40.2840983, -20.3336, 0.0], [-40.2858847, -20.3333334, 0.0], [-40.2877193, -20.3330785, 0.0], [-40.288456, -20.3376298, 0.0], [-40.2886062, -20.3385641, 0.0], [-40.2888029, -20.3393968, 0.0], [-40.2888351, -20.3397131, 0.0], [-40.2887737, -20.3399066, 0.0]]], "type": "Polygon"}, "id": "0", "properties": {"Name": "Samuel", "altitudeMode": null, "begin": null, "description": "\u003cdiv\u003e\u003cb\u003enome\u003c/b\u003e: Samuel\u003c/div\u003e\u003cdiv\u003e\u003cb\u003edescri\u00e7\u00e3o\u003c/b\u003e: \u003ci\u003eempty\u003c/i\u003e\u003c/div\u003e", "drawOrder": null, "end": null, "extrude": 0, "icon": null, "id": "7f5c3b96_4EBB1D16A1076A9D", "str:ZGVzY3Jpw6fDo28=": null, "str:bm9tZQ==": "Samuel", "tessellate": -1, "timestamp": null, "visibility": -1}, "type": "Feature"}, {"bbox": [-40.2842145, -20.3349362, -40.2668819, -20.3201716], "geometry": {"coordinates": [[[-40.2842145, -20.3344097, 0.0], [-40.2823906, -20.3345942, 0.0], [-40.2803593, -20.3349362, 0.0], [-40.2778748, -20.3327241, 0.0], [-40.275853, -20.3320104, 0.0], [-40.2738026, -20.3319406, 0.0], [-40.2737393, -20.3305266, 0.0], [-40.2731325, -20.3292601, 0.0], [-40.2724648, -20.32905, 0.0], [-40.2719866, -20.3287125, 0.0], [-40.2716515, -20.3282275, 0.0], [-40.2702539, -20.3282523, 0.0], [-40.2693784, -20.3296723, 0.0], [-40.2687818, -20.3299185, 0.0], [-40.2679978, -20.3286496, 0.0], [-40.2683493, -20.3284864, 0.0], [-40.2684862, -20.3276123, 0.0], [-40.2682593, -20.3273531, 0.0], [-40.2690501, -20.3266199, 0.0], [-40.2675812, -20.3259794, 0.0], [-40.2677188, -20.3257681, 0.0], [-40.267549, -20.3255334, 0.0], [-40.2670178, -20.325665, 0.0], [-40.2668819, -20.3242632, 0.0], [-40.267744, -20.3238663, 0.0], [-40.2685059, -20.3243548, 0.0], [-40.2694289, -20.3250903, 0.0], [-40.269873, -20.3247369, 0.0], [-40.2693308, -20.3240569, 0.0], [-40.269591, -20.3235824, 0.0], [-40.270798, -20.3233845, 0.0], [-40.2716098, -20.323579, 0.0], [-40.2711377, -20.3252156, 0.0], [-40.2721176, -20.3256583, 0.0], [-40.2727185, -20.3235555, 0.0], [-40.2734194, -20.3232235, 0.0], [-40.2732764, -20.3218317, 0.0], [-40.2739344, -20.3210553, 0.0], [-40.2742205, -20.3201716, 0.0], [-40.2753363, -20.3203863, 0.0], [-40.2765415, -20.321047, 0.0], [-40.2770314, -20.3215199, 0.0], [-40.2823887, -20.3256851, 0.0], [-40.2834446, -20.3305353, 0.0], [-40.2839869, -20.3327861, 0.0], [-40.2842145, -20.3344097, 0.0]]], "type": "Polygon"}, "id": "1", "properties": {"Name": "Caio", "altitudeMode": null, "begin": null, "description": "\u003cdiv\u003e\u003cb\u003enome\u003c/b\u003e: Caio\u003c/div\u003e\u003cdiv\u003e\u003cb\u003edescri\u00e7\u00e3o\u003c/b\u003e: \u003ci\u003eempty\u003c/i\u003e\u003c/div\u003e", "drawOrder": null, "end": null, "extrude": 0, "icon": null, "id": "7f5c3b96_4EBB1FA4380C139D", "str:ZGVzY3Jpw6fDo28=": null, "str:bm9tZQ==": "Caio", "tessellate": -1, "timestamp": null, "visibility": -1}, "type": "Feature"}, {"bbox": [-40.2898996, -20.3433939, -40.2820653, -20.3370763], "geometry": {"coordinates": [[[-40.2874581, -20.3400222, 0.0], [-40.2897374, -20.3412537, 0.0], [-40.2898996, -20.3425254, 0.0], [-40.2838461, -20.3433939, 0.0], [-40.2834598, -20.3416794, 0.0], [-40.2822869, -20.3379797, 0.0], [-40.2820653, -20.3373423, 0.0], [-40.2821617, -20.3372836, 0.0], [-40.2824012, -20.337346, 0.0], [-40.2826752, -20.3373153, 0.0], [-40.2837307, -20.3371747, 0.0], [-40.2845183, -20.3370763, 0.0], [-40.2846292, -20.3377529, 0.0], [-40.2848867, -20.3384394, 0.0], [-40.2854607, -20.3389391, 0.0], [-40.2874581, -20.3400222, 0.0]]], "type": "Polygon"}, "id": "2", "properties": {"Name": "Luana", "altitudeMode": null, "begin": null, "description": "\u003cdiv\u003e\u003cb\u003enome\u003c/b\u003e: Luana\u003c/div\u003e\u003cdiv\u003e\u003cb\u003edescri\u00e7\u00e3o\u003c/b\u003e: \u003ci\u003eempty\u003c/i\u003e\u003c/div\u003e", "drawOrder": null, "end": null, "extrude": 0, "icon": null, "id": "7f5c3b96_4EBB23BC12CA2C94", "str:ZGVzY3Jpw6fDo28=": null, "str:bm9tZQ==": "Luana", "tessellate": -1, "timestamp": null, "visibility": -1}, "type": "Feature"}, {"bbox": [-40.2904755, -20.3468208, -40.2838461, -20.3425254], "geometry": {"coordinates": [[[-40.2898399, -20.3425405, 0.0], [-40.2898996, -20.3425254, 0.0], [-40.2901715, -20.344306, 0.0], [-40.2904755, -20.3457982, 0.0], [-40.2889484, -20.3461235, 0.0], [-40.2840632, -20.3468208, 0.0], [-40.2839976, -20.3451074, 0.0], [-40.2838461, -20.3433939, 0.0], [-40.2862654, -20.34302, 0.0], [-40.2898399, -20.3425405, 0.0]]], "type": "Polygon"}, "id": "3", "properties": {"Name": "Haddania", "altitudeMode": null, "begin": null, "description": "\u003cdiv\u003e\u003cb\u003enome\u003c/b\u003e: Haddania\u003c/div\u003e\u003cdiv\u003e\u003cb\u003edescri\u00e7\u00e3o\u003c/b\u003e: \u003ci\u003eempty\u003c/i\u003e\u003c/div\u003e", "drawOrder": null, "end": null, "extrude": 0, "icon": null, "id": "7f5c3b96_4EBB2C42D60A8692", "str:ZGVzY3Jpw6fDo28=": null, "str:bm9tZQ==": "Haddania", "tessellate": -1, "timestamp": null, "visibility": -1}, "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_70cacb2a892b55b870b47b42770dede4.addTo(map_a9278d38f9208d419568013721a23135);
+        
+</script>
+</html>

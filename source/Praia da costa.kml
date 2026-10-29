@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="1J0_esSyhEo90RGMJSWcZBl2A5Rx5W2qB">
+	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
+	<name>Praia da costa</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="str:bm9tZQ==">
+			<displayName>nome</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="str:ZGVzY3Jpw6fDo28=">
+			<displayName>descrição</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_0BF228A04042BE146687_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=000000&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d000000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BF228A04042BE146687">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0BF228A04042BE146687_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BF228A04042BE146687_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04A1131FA742BE146681_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=9fa8da&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffdaa89f</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>85daa89f</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04A1131FA742BE146681_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=9fa8da&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffdaa89f</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>85daa89f</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04A1131FA742BE146681">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_04A1131FA742BE146681_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04A1131FA742BE146681_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0ACBD4910442BE146684_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=c2185b&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5b18c2</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d5b18c2</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_059CBBE6D442BE146686">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_059CBBE6D442BE146686_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_059CBBE6D442BE146686_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_059CBBE6D442BE146686_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=006064&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff646000</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d646000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_059CBBE6D442BE146686_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=006064&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff646000</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d646000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17BB7D7A4942BE146684_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0BF228A04042BE146687_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=000000&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d000000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0ACBD4910442BE146684_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=c2185b&amp;id=1899&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5b18c2</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d5b18c2</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0ACBD4910442BE146684">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0ACBD4910442BE146684_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0ACBD4910442BE146684_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_17BB7D7A4942BE146684_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_17BB7D7A4942BE146684">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17BB7D7A4942BE146684_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_17BB7D7A4942BE146684_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="7f5c3b96_0">
+		<name>Divisões</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_17BB7D7A4942BE146684</styleUrl>
+		<Placemark id="7f5c3b96_4EBB1D16A1076A9D">
+			<name>Samuel</name>
+			<description><![CDATA[<div><b>nome</b>: Samuel</div><div><b>descrição</b>: <i>empty</i></div>]]></description>
+			<styleUrl>#__managed_style_059CBBE6D442BE146686</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tZQ==">Samuel</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.2887737,-20.3399066,0 -40.2887064,-20.3400434,0 -40.2886402,-20.3401583,0 -40.288574,-20.3402631,0 -40.2876925,-20.3398146,0 -40.2868073,-20.3393627,0 -40.2865212,-20.3392332,0 -40.2862691,-20.3390718,0 -40.2857872,-20.3388036,0 -40.2855136,-20.3386003,0 -40.2853116,-20.3383936,0 -40.2851202,-20.3381496,0 -40.2849459,-20.3378981,0 -40.284793,-20.3374813,0 -40.2846938,-20.337051,0 -40.2845183,-20.3370763,0 -40.2824012,-20.337346,0 -40.2821617,-20.3372836,0 -40.2820653,-20.3373423,0 -40.2816075,-20.3365274,0 -40.2803593,-20.3349362,0 -40.2823906,-20.3345942,0 -40.2842145,-20.3344097,0 -40.2840983,-20.3336,0 -40.2858847,-20.3333334,0 -40.2877193,-20.3330785,0 -40.288456,-20.3376298,0 -40.2886062,-20.3385641,0 -40.2888029,-20.3393968,0 -40.2888351,-20.3397131,0 -40.2887737,-20.3399066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="7f5c3b96_4EBB1FA4380C139D">
+			<name>Caio</name>
+			<description><![CDATA[<div><b>nome</b>: Caio</div><div><b>descrição</b>: <i>empty</i></div>]]></description>
+			<styleUrl>#__managed_style_0ACBD4910442BE146684</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tZQ==">Caio</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.2842145,-20.3344097,0 -40.2823906,-20.3345942,0 -40.2803593,-20.3349362,0 -40.2778748,-20.3327241,0 -40.275853,-20.3320104,0 -40.2738026,-20.3319406,0 -40.2737393,-20.3305266,0 -40.2731325,-20.3292601,0 -40.2724648,-20.32905,0 -40.2719866,-20.3287125,0 -40.2716515,-20.3282275,0 -40.2702539,-20.3282523,0 -40.2693784,-20.3296723,0 -40.2687818,-20.3299185,0 -40.2679978,-20.3286496,0 -40.2683493,-20.3284864,0 -40.2684862,-20.3276123,0 -40.2682593,-20.3273531,0 -40.2690501,-20.3266199,0 -40.2675812,-20.3259794,0 -40.2677188,-20.3257681,0 -40.267549,-20.3255334,0 -40.2670178,-20.325665,0 -40.2668819,-20.3242632,0 -40.267744,-20.3238663,0 -40.2685059,-20.3243548,0 -40.2694289,-20.3250903,0 -40.269873,-20.3247369,0 -40.2693308,-20.3240569,0 -40.269591,-20.3235824,0 -40.270798,-20.3233845,0 -40.2716098,-20.323579,0 -40.2711377,-20.3252156,0 -40.2721176,-20.3256583,0 -40.2727185,-20.3235555,0 -40.2734194,-20.3232235,0 -40.2732764,-20.3218317,0 -40.2739344,-20.3210553,0 -40.2742205,-20.3201716,0 -40.2753363,-20.3203863,0 -40.2765415,-20.321047,0 -40.2770314,-20.3215199,0 -40.2823887,-20.3256851,0 -40.2834446,-20.3305353,0 -40.2839869,-20.3327861,0 -40.2842145,-20.3344097,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="7f5c3b96_4EBB23BC12CA2C94">
+			<name>Luana</name>
+			<description><![CDATA[<div><b>nome</b>: Luana</div><div><b>descrição</b>: <i>empty</i></div>]]></description>
+			<styleUrl>#__managed_style_04A1131FA742BE146681</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tZQ==">Luana</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.2874581,-20.3400222,0 -40.2897374,-20.3412537,0 -40.2898996,-20.3425254,0 -40.2838461,-20.3433939,0 -40.2834598,-20.3416794,0 -40.2822869,-20.3379797,0 -40.2820653,-20.3373423,0 -40.2821617,-20.3372836,0 -40.2824012,-20.337346,0 -40.2826752,-20.3373153,0 -40.2837307,-20.3371747,0 -40.2845183,-20.3370763,0 -40.2846292,-20.3377529,0 -40.2848867,-20.3384394,0 -40.2854607,-20.3389391,0 -40.2874581,-20.3400222,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="7f5c3b96_4EBB2C42D60A8692">
+			<name>Haddania</name>
+			<description><![CDATA[<div><b>nome</b>: Haddania</div><div><b>descrição</b>: <i>empty</i></div>]]></description>
+			<styleUrl>#__managed_style_0BF228A04042BE146687</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bm9tZQ==">Haddania</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.2898399,-20.3425405,0 -40.2898996,-20.3425254,0 -40.2901715,-20.344306,0 -40.2904755,-20.3457982,0 -40.2889484,-20.3461235,0 -40.2840632,-20.3468208,0 -40.2839976,-20.3451074,0 -40.2838461,-20.3433939,0 -40.2862654,-20.34302,0 -40.2898399,-20.3425405,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
